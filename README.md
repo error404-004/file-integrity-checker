@@ -5,7 +5,7 @@
 *NAME* - DEEPAYAN DEY
 
 *INTERN ID* - CT04DL977
-https://github.com/error404-004/file-integrity-checker/edit/main/README.md
+
 *DOMAIN* -  CYBER SECURITY AND ETHICAL HACKING
 
 *DURATION* - 4 WEEKS
