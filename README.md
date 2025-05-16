@@ -1,3 +1,19 @@
+*FILE-INTEGRITY-CHECKER*
+
+*COMPANY* - CODTECH IT SOLUTIONS
+
+*NAME* - DEEPAYAN DEY
+
+*INTERN ID* - CT04DL977
+https://github.com/error404-004/file-integrity-checker/edit/main/README.md
+*DOMAIN* -  CYBER SECURITY AND ETHICAL HACKING
+
+*DURATION* - 4 WEEKS
+
+*MENTOR* - NEELA SANTOSH
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Secure File Integrity Monitor
 This Python script provides a secure file integrity monitoring solution to detect unauthorized changes to files within a specified directory. It includes both a command-line interface (CLI) and a web interface for monitoring and administration, with a strong focus on security through features like path normalization, password hashing, CSRF protection, and honeypot generation.
 
